@@ -12,6 +12,7 @@ yarn install
 pnpm install
 ```
 
+```
 Then, create a .env.local file with values for:
 #
 NEXT_URL='yourappurl'
@@ -19,6 +20,7 @@ NEXT_URL='yourappurl'
 STRIPE_PUBLIC_KEY='yourkeyhere'
 # and
 STRIPE_SECRET_KEY='yourkeyhere'
+```
 
 Finally, run the development server:
 
