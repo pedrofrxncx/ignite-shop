@@ -12,9 +12,8 @@ yarn install
 pnpm install
 ```
 
-```
 Then, create a .env.local file with values for:
-#
+```
 NEXT_URL='yourappurl'
 # and
 STRIPE_PUBLIC_KEY='yourkeyhere'
